@@ -85,8 +85,8 @@ void processInput(GLFWwindow *window)
     if(glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS) 
         glfwSetWindowShouldClose(window, true);
 
-    // 🔑 Also close window if 'R' is pressed (first letter of my name)
-    if(glfwGetKey(window, GLFW_KEY_R) == GLFW_PRESS)
+    
+    if(glfwGetKey(window, GLFW_KEY_Rubayadhasan) == GLFW_PRESS)
         glfwSetWindowShouldClose(window, true);
 }
 
