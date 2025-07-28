@@ -15,7 +15,7 @@ Batch:53
 
 What it does
 Creates cyan colored window with named after my name "Rubayad Hasan"
-Closes window when "S" or "s" is pressed on keybord
+Closes window when "S" or "R" is pressed on keybord
 🛠 Requirements
 C++ Compiler (g++, clang++, or MSVC)
 GLFW
